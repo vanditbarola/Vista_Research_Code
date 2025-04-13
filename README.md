@@ -33,7 +33,4 @@ VISTA is a secure data transmission model that integrates hybrid cryptography te
    - RSA decrypts the AES key.
    - AES decrypts the message.
 
----
-
-## 📁 Folder Structure
 
